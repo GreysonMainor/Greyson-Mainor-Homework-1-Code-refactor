@@ -50,12 +50,12 @@ p {
     font-size: 16px;
 }
 /* Background image directly below the header */
-div img {
+figure img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
     background-size: cover;
-    background-position: top;
+    background-position: center;
 }
 /* general float commands used for our images and aside */
 .float-left {
